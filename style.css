@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(180, 205, 225);
+}
+
+.profile-image{
+    height: 300px;
+    width:300px;
+    border-radius: 100%;
+    /* text-align: center; */
+}
+.waving-hand{
+    height :100px;
+    width : 100px;
+}
+.logo{
+    width: 200px;
+    height: 100px;
+}
+.box{
+    width: 500px;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 10%;
+}
+.image{
+text-align: center;
+}
+/* .logo{
+    height: 20px;
+    width: 20px;
+} */
